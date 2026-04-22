@@ -1,0 +1,13 @@
+# Ignore config (secrets)
+config.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Mac
+.DS_Store
